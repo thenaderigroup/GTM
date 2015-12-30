@@ -1,3 +1,3 @@
 # GTM
-all relevant GTM scripts
-This repsository contains various custom scripts which can be used with Google Tag Manager
+This repoository contains various custom scripts which can be used with Google Tag Manager.
+Some codes are specific to Clickbank sales funnels, while others are universal.
