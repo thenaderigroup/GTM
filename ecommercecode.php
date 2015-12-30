@@ -1,28 +1,3 @@
-<!-- CORE GOOGLE ANALYTICS ECOMMERCE CODE
-
-<script>
-dataLayer = [{
-    'transactionId':'DYNAMICALLY GENERATED RECEIPT ID',
-    'transactionTotal': DYNAMICALLY GENERATED TRANSACTION TOTAL ,
-    'transactionProducts': [{
-        'sku':'DYNAMICALLY GENERATED ITEM SKU',
-        'name':'DYNAMICALLY GENERATED ITEM NAME',
-        'price':DYNAMICALLY GENERATED ITEM TOTAL,
-        'quantity': DYNAMICALLY GENERATED QUANTITY
-    }]
-}];
-
-//THE TRANSACTION PRODUCTS ARRAY SHOULD BE DUPLICATED IN THE CASE OF MULTIPLE PRODUCTS IN THE SAME ORDER
-
-</script>
-
--->
-
----------------------------------------------------------
-
-<!-- PHP EXAMPLE FOR FIRST UPSELL PAGE -->
-
-
 <!-- FIRST UPSELL PAGE SCRIPT -->
 
 <?php 
