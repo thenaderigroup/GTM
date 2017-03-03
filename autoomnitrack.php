@@ -7,41 +7,8 @@ if ($pos !== FALSE){
 };
 
 switch ($domain){
-	case "bodyweightburn.com":
-		$tag = "GTM-5ZJXC7";
-		break;
-	case "halfdaydietplan.com":
-		$tag = "GTM-W4L66R";
-		break;
-	case "halfdayfactor.com":
-		$tag = "GTM-WQ5WSJ";
-		break;
-	case "jeansdiet.com":
-		$tag = "GTM-WK4RSN";
-		break;
-	case "thebetaswitch.com":
-		$tag = "GTM-WQ5WSJ";
-		break;
-	case "yogafitnessflow.com":
-		$tag = "GTM-5TMR6R";
-		break;
-	case "alphanation.com":
-		$tag = "GTM-N5J2BW";
-		break;
-	case "anabolicfinishers.com":
-		$tag = "GTM-MD77JB";
-		break;
-	case "specforceabs.com":
-		$tag = "GTM-PPMH53";
-		break;
-	case "specforcefactor.com":
-		$tag = "GTM-3FFLTL";
-		break;
-	case "specforcefit.com":
-		$tag = "GTM-WJVBFD";
-		break;
-	case "eatstopeat.com":
-		$tag = "GTM-5WQZXQ";
+	case "example.com":
+		$tag = "GTM-XXXXXX";
 		break;
 	default:
 		$tag = "null";
